@@ -1,7 +1,7 @@
 ## Setting up a cron in docker
 
 ### Build Docker image
-docker build docker-cron
+docker build docker-cron-nodejs
 
 Note: run this command from where you can see docker-cron-nodejs in the list of directories
 
